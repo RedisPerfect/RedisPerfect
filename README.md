@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RedisPerfect
 - 👀 I’m interested in European Politics, American Politics, Geography and Programming.
 - 🌱 I’m currently learning GLua and Python!
-- 📫 How to reach me: Discord (KriZ#0001)
+- 📫 How to reach me: Discord (KriZ#9283)
 
 <!---
 RedisPerfect/RedisPerfect is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
